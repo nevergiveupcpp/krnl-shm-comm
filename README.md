@@ -12,4 +12,4 @@ Covert kernel-to-usermode communication channel implemented via shared memory, h
 
 ## Credits
 
-[@KDmapper](https://github.com/TheCruZ/kdmapper)
+[KDmapper](https://github.com/TheCruZ/kdmapper)
