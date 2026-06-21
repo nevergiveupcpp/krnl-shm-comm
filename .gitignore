@@ -1,20 +1,39 @@
-**/x64/
-**/Debug/
-**/Release/
+# IDE
+.vs/
+.idea/
 
-**/.vs/
-*.vcxproj.user
-*.suo
-*.sdf
-*.opensdf
-*.db
-*.opendb
-*.user
-*.DotSettings
+# Executables
+*.exe
+*.out
+*.app
 
-*.pdb
-*.pch
-*.ilk
-*.exp
-*.lib
-*.obj
+# Build directories
+build/
+Build/
+build-*/
+
+# Development
+development/
+cmake/development.cmake
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+install_manifest.txt
+compile_commands.json
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+*.bat
+
+# vcpkg
+vcpkg_installed/
+
+# test output & cache
+Testing/
+.cache/
