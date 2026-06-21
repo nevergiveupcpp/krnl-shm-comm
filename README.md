@@ -10,6 +10,5 @@ Covert kernel-to-usermode communication channel implemented via shared memory, h
 
 > All actions were carried out solely for the purpose of studying defensive systems and testing the functionality and effectiveness of the methods described. I strongly condemn any interference with someone else's process!
 
-## Credits
-
-[KDmapper](https://github.com/TheCruZ/kdmapper)
+## License
+**krnl-shm-comm** is distributed under the [MIT License](LICENSE).
